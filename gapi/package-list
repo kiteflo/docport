@@ -1,0 +1,9 @@
+DefaultPackage
+enums
+rest.v0
+speedypay
+speedypay.security
+speedypay.util.datageneration
+spring
+ui
+ui.admin
